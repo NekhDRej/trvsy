@@ -1,4 +1,3 @@
-os_custom: rqwrqweqweqwe
 jobs:
 script:
 - sleep 10

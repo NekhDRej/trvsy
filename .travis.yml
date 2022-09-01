@@ -1,3 +1,4 @@
+language: Ruby
 jobs:
 script:
 - sleep 10
